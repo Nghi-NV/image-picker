@@ -1,30 +1,20 @@
-<a href="https://opensooq.com/">
-    <img src="https://opensooqui2.os-cdn.com/os_web/desktop/opensooq-logo.svg" alt="OpenSooq logo" title="OpenSooq" align="right" height="70" />
-</a>
 
 Gliger [Android Image Picker Library]
 ======================
-![API](https://img.shields.io/badge/100%25-Kotlin-brightgreen) ![API](https://img.shields.io/badge/API-17%2B-green.svg?style=flat) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)   [ ![Download](https://api.bintray.com/packages/opensooq/Gligar/gligar/images/download.svg?version=1.0.0) ](https://bintray.com/opensooq/Gligar/gligar/1.0.0/link)  [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Gligar-blue.svg?style=flat)](https://android-arsenal.com/details/1/8021)
 
-
-:star: Star us on GitHub — it helps!
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ##### Gliger is an Easy, lightweight and high performance image picker library for Android!
 ##### Gliger load images using Android content resolver with the help of coroutines to lazy load the images and improve the performance!
 ##### Gliger handle permission requests, support camera capture, and limit for the max number of images to pick. 
 
 
-
 Demo
 ======================
-<img src="https://github.com/OpenSooq/Gligar/blob/master/demo.gif"  height="440" />
+<img src="https://github.com/Nghi-NV/image-picker/blob/main/demo.gif"  height="440" />
 
 ## Table of content
 
 * [Download](#download)
-* [Sample Project](#sample-project)
 * [Usage](#usage)
 * [UI customization](#UI-customization)
 - [License](#license)
@@ -39,13 +29,6 @@ dependencies {
     implementation 'com.opensooq.supernova:gligar:1.0.0'
 }
 ```
-
-
-# Sample Project
-We have a sample project demonstrating how to use the library.
-
-Checkout the demo  [here](https://github.com/OpenSooq/Gligar/tree/master/app/src/main/java/com/opensooq/supernova/gligarexample)
-
 
 
 # Usage
@@ -153,7 +136,7 @@ override any string to change inside your project strings.xml
 # License
 
 ```
-Copyright 2019 OpenSooq
+Copyright 2023
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
